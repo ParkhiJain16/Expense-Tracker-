@@ -1,7 +1,7 @@
-# Expense-Tracker- MERN Stack Application
+# Expense-Tracker-# Expense-Tracker- MERN Stack Application
 A full-stack Expense Tracker web application built using the MERN stack, designed to help users track, manage, and analyze their daily expenses efficiently with a clean and intuitive UI.
 
-##🚀 Features
+## 🚀 Features
 
 ➕ Add expenses with title, category, and amount
 
@@ -15,20 +15,20 @@ A full-stack Expense Tracker web application built using the MERN stack, designe
 
 ⚡ Fast and responsive frontend with Vite + React
 
-#🛠️ Tech Stack
-###Frontend
+# 🛠️ Tech Stack
+### Frontend
 
 - React.js
 - Vite
 - Axios
 - CSS
-###Backend
+### Backend
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
 
-##🧠 Key Learnings
+## 🧠 Key Learnings
 
 - Implemented RESTful APIs using Express.js
 - Practiced state management and component-based architecture in React
@@ -36,7 +36,7 @@ A full-stack Expense Tracker web application built using the MERN stack, designe
 - Handled asynchronous operations and UI reactivity
 - Built a complete CRUD application using MERN stack
 
-##👨‍💻 Author
+## Author:-
 Parkhi Jain
 🎓 BTech (Data Science)
 🏫 Bennett University
