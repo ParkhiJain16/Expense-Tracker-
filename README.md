@@ -1,4 +1,4 @@
-# Expense-Tracker-# Expense-Tracker- MERN Stack Application
+# Expense-Tracker- Expense-Tracker- MERN Stack Application
 A full-stack Expense Tracker web application built using the MERN stack, designed to help users track, manage, and analyze their daily expenses efficiently with a clean and intuitive UI.
 
 ## 🚀 Features
